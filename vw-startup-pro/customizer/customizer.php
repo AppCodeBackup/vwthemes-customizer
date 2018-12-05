@@ -1,0 +1,116 @@
+<?php
+//  =============================
+//  = Default Theme Customizer Settings  =
+function vwthemes_customize_register( $wp_customize ) {   
+    $wp_customize->add_panel( 'vw_startup_pro_panel_id', array(
+        'priority' => 10,
+        'capability' => 'edit_theme_options',
+        'theme_supports' => '',
+        'title' => __( 'Theme Settings', 'vw-startup-pro' ),
+        'description' => __( 'Description of what this panel does.', 'vw-startup-pro' ),
+    ) );
+
+    $font_array = array(
+        '' => __( 'No Fonts', 'vw-startup-pro' ),
+        'Abril Fatface' => __( 'Abril Fatface', 'vw-startup-pro' ),
+        'Acme' => __( 'Acme', 'vw-startup-pro' ),
+        'Anton' => __( 'Anton', 'vw-startup-pro' ),
+        'Architects Daughter' => __( 'Architects Daughter', 'vw-startup-pro' ),
+        'Arimo' => __( 'Arimo', 'vw-startup-pro' ),
+        'Arsenal' => __( 'Arsenal', 'vw-startup-pro' ),
+        'Arvo' => __( 'Arvo', 'vw-startup-pro' ),
+        'Alegreya' => __( 'Alegreya', 'vw-startup-pro' ),
+        'Alfa Slab One' => __( 'Alfa Slab One', 'vw-startup-pro' ),
+        'Averia Serif Libre' => __( 'Averia Serif Libre', 'vw-startup-pro' ),
+        'Bangers' => __( 'Bangers', 'vw-startup-pro' ),
+        'Boogaloo' => __( 'Boogaloo', 'vw-startup-pro' ),
+        'Bad Script' => __( 'Bad Script', 'vw-startup-pro' ),
+        'Bitter' => __( 'Bitter', 'vw-startup-pro' ),
+        'Bree Serif' => __( 'Bree Serif', 'vw-startup-pro' ),
+        'BenchNine' => __( 'BenchNine', 'vw-startup-pro' ),
+        'Cabin' => __( 'Cabin', 'vw-startup-pro' ),
+        'Cardo' => __( 'Cardo', 'vw-startup-pro' ),
+        'Courgette' => __( 'Courgette', 'vw-startup-pro' ),
+        'Cherry Swash' => __( 'Cherry Swash', 'vw-startup-pro' ),
+        'Cormorant Garamond' => __( 'Cormorant Garamond', 'vw-startup-pro' ),
+        'Crimson Text' => __( 'Crimson Text', 'vw-startup-pro' ),
+        'Cuprum' => __( 'Cuprum', 'vw-startup-pro' ),
+        'Cookie' => __( 'Cookie', 'vw-startup-pro' ),
+        'Chewy' => __( 'Chewy', 'vw-startup-pro' ),
+        'Days One' => __( 'Days One', 'vw-startup-pro' ),
+        'Dosis' => __( 'Dosis', 'vw-startup-pro' ),
+        'Economica' => __( 'Economica', 'vw-startup-pro' ),
+        'Fredoka One' => __( 'Fredoka One', 'vw-startup-pro' ),
+        'Fjalla One' => __( 'Fjalla One', 'vw-startup-pro' ),
+        'Francois One' => __( 'Francois One', 'vw-startup-pro' ),
+        'Frank Ruhl Libre' => __( 'Frank Ruhl Libre', 'vw-startup-pro' ),
+        'Gloria Hallelujah' => __( 'Gloria Hallelujah', 'vw-startup-pro' ),
+        'Great Vibes' => __( 'Great Vibes', 'vw-startup-pro' ),
+        'Handlee' => __( 'Handlee', 'vw-startup-pro' ),
+        'Hammersmith One' => __( 'Hammersmith One', 'vw-startup-pro' ),
+        'Inconsolata' => __( 'Inconsolata', 'vw-startup-pro' ),
+        'Indie Flower' => __( 'Indie Flower', 'vw-startup-pro' ),
+        'IM Fell English SC' => __( 'IM Fell English SC', 'vw-startup-pro' ),
+        'Julius Sans One' => __( 'Julius Sans One', 'vw-startup-pro' ),
+        'Josefin Slab' => __( 'Josefin Slab', 'vw-startup-pro' ),
+        'Josefin Sans' => __( 'Josefin Sans', 'vw-startup-pro' ),
+        'Kanit' => __( 'Kanit', 'vw-startup-pro' ),
+        'Lobster' => __( 'Lobster', 'vw-startup-pro' ),
+        'Lato' => __( 'Lato', 'vw-startup-pro' ),
+        'Lora' => __( 'Lora', 'vw-startup-pro' ),
+        'Libre Baskerville' => __( 'Libre Baskerville', 'vw-startup-pro' ),
+        'Lobster Two' => __( 'Lobster Two', 'vw-startup-pro' ),
+        'Merriweather' => __( 'Merriweather', 'vw-startup-pro' ),
+        'Monda' => __( 'Monda', 'vw-startup-pro' ),
+        'Montserrat' => __( 'Montserrat', 'vw-startup-pro' ),
+        'Muli' => __( 'Muli', 'vw-startup-pro' ),
+        'Marck Script' => __( 'Marck Script', 'vw-startup-pro' ),
+        'Noto Serif' => __( 'Noto Serif', 'vw-startup-pro' ),
+        'Open Sans' => __( 'Open Sans', 'vw-startup-pro' ),
+        'Overpass' => __( 'Overpass', 'vw-startup-pro' ),
+        'Overpass Mono' => __( 'Overpass Mono', 'vw-startup-pro' ),
+        'Oxygen' => __( 'Oxygen', 'vw-startup-pro' ),
+        'Orbitron' => __( 'Orbitron', 'vw-startup-pro' ),
+        'Patua One' => __( 'Patua One', 'vw-startup-pro' ),
+        'Pacifico' => __( 'Pacifico', 'vw-startup-pro' ),
+        'Padauk' => __( 'Padauk', 'vw-startup-pro' ),
+        'Playball' => __( 'Playball', 'vw-startup-pro' ),
+        'Playfair Display' => __( 'Playfair Display', 'vw-startup-pro' ),
+        'PT Sans' => __( 'PT Sans', 'vw-startup-pro' ),
+        'Philosopher' => __( 'Philosopher', 'vw-startup-pro' ),
+        'Permanent Marker' => __( 'Permanent Marker', 'vw-startup-pro' ),
+        'Poiret One' => __( 'Poiret One', 'vw-startup-pro' ),
+        'Quicksand' => __( 'Quicksand', 'vw-startup-pro' ),
+        'Quattrocento Sans' => __( 'Quattrocento Sans', 'vw-startup-pro' ),
+        'Raleway' => __( 'Raleway', 'vw-startup-pro' ),
+        'Rubik' => __( 'Rubik', 'vw-startup-pro' ),
+        'Rokkitt' => __( 'Rokkitt', 'vw-startup-pro' ),
+        'Russo One' => __( 'Russo One', 'vw-startup-pro' ),
+        'Righteous' => __( 'Righteous', 'vw-startup-pro' ),
+        'Slabo' => __( 'Slabo', 'vw-startup-pro' ),
+        'Source Sans Pro' => __( 'Source Sans Pro', 'vw-startup-pro' ),
+        'Shadows Into Light Two' => __( 'Shadows Into Light Two', 'vw-startup-pro'),
+        'Shadows Into Light' => __( 'Shadows Into Light', 'vw-startup-pro' ),
+        'Sacramento' => __( 'Sacramento', 'vw-startup-pro' ),
+        'Shrikhand' => __( 'Shrikhand', 'vw-startup-pro' ),
+        'Tangerine' => __( 'Tangerine', 'vw-startup-pro' ),
+        'Ubuntu' => __( 'Ubuntu', 'vw-startup-pro' ),
+        'VT323' => __( 'VT323', 'vw-startup-pro' ),
+        'Varela Round' => __( 'Varela Round', 'vw-startup-pro' ),
+        'Vampiro One' => __( 'Vampiro One', 'vw-startup-pro' ),
+        'Vollkorn' => __( 'Vollkorn', 'vw-startup-pro' ),
+        'Volkhov' => __( 'Volkhov', 'vw-startup-pro' ),
+        'Yanone Kaffeesatz' => __( 'Yanone Kaffeesatz', 'vw-startup-pro' )
+    );
+
+    include_once( plugin_dir_path(__FILE__) . 'customizer-general-settings.php' );
+    include_once( plugin_dir_path(__FILE__) . 'customizer-part-topbar.php' );
+    include_once( plugin_dir_path(__FILE__) . 'customizer-part-social-icons.php' );
+    include_once( plugin_dir_path(__FILE__) . 'customizer-part-slide.php' );
+    include_once( plugin_dir_path(__FILE__) . 'customizer-part-home.php' );
+    include_once( plugin_dir_path(__FILE__) . 'customizer-part-footer.php' );
+    include_once( plugin_dir_path(__FILE__) . 'customize-repeater/customize-repeater.php' );
+
+}
+add_action('customize_register','vwthemes_customize_register');
+?>
