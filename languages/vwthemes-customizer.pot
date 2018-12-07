@@ -1,0 +1,1837 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: vwthemes-customizer\n"
+"POT-Creation-Date: 2016-02-11 19:00+0530\n"
+"PO-Revision-Date: 2016-02-11 19:00+0530\n"
+"Last-Translator: \n"
+"Language-Team: vwthemes Team <support@vwthemes.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0.2\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: vw-startup-pro/customizer/typography/ctypo.php:32
+msgid "Typography"
+msgstr""
+
+#: vw-startup-pro/customizer/typography/ctypo.php:36
+msgid "Content Typography"
+msgstr""
+
+#: vw-startup-pro/customizer/typography/ctypo.php:41
+msgid "Headings"
+msgstr""
+
+#: vw-startup-pro/customizer/typography/ctypo.php:127
+msgid "Paragraph Color"
+msgstr""
+
+#: vw-startup-pro/customizer/typography/ctypo.php:128
+#: vw-startup-pro/customizer/typography/ctypo.php:134
+msgid "Select how you want your paragraphs to appear."
+msgstr""
+
+#: vw-startup-pro/customizer/typography/ctypo.php:133
+msgid "Paragraph Typography"
+msgstr""
+
+#: vw-startup-pro/customizer/typography/ctypo.php:156
+msgid "Anchor Tag Color"
+msgstr""
+
+#: vw-startup-pro/customizer/typography/ctypo.php:157
+#: vw-startup-pro/customizer/typography/ctypo.php:163
+msgid "Select how you want your a tag to appear."
+msgstr""
+
+#: vw-startup-pro/customizer/typography/ctypo.php:162
+msgid "Anchor Tag Typography"
+msgstr""
+
+#: vw-startup-pro/customizer/typography/ctypo.php:185
+msgid "Heading 1 Color"
+msgstr""
+
+#: vw-startup-pro/customizer/typography/ctypo.php:186
+#: vw-startup-pro/customizer/typography/ctypo.php:192
+msgid "Select how heading 1 should appear."
+msgstr""
+
+#: vw-startup-pro/customizer/typography/ctypo.php:191
+msgid "Heading 1"
+msgstr""
+
+#: vw-startup-pro/customizer/typography/ctypo.php:212
+msgid "Heading 2 Color"
+msgstr""
+
+#: vw-startup-pro/customizer/typography/ctypo.php:213
+#: vw-startup-pro/customizer/typography/ctypo.php:219
+msgid "Select how heading 2 should appear."
+msgstr""
+
+#: vw-startup-pro/customizer/typography/ctypo.php:218
+msgid "Heading 2"
+msgstr""
+
+#: vw-startup-pro/customizer/typography/ctypo.php:241
+msgid "Heading 3 Color"
+msgstr""
+
+#: vw-startup-pro/customizer/typography/ctypo.php:242
+#: vw-startup-pro/customizer/typography/ctypo.php:248
+msgid "Select how heading 3 should appear."
+msgstr""
+
+#: vw-startup-pro/customizer/typography/ctypo.php:247
+msgid "Heading 3"
+msgstr""
+
+#: vw-startup-pro/customizer/typography/ctypo.php:270
+msgid "Heading 4 Color"
+msgstr""
+
+#: vw-startup-pro/customizer/typography/ctypo.php:271
+#: vw-startup-pro/customizer/typography/ctypo.php:277
+msgid "Select how heading 4 should appear."
+msgstr""
+
+#: vw-startup-pro/customizer/typography/ctypo.php:276
+msgid "Heading 4"
+msgstr""
+
+#: vw-startup-pro/customizer/typography/ctypo.php:299
+msgid "Heading 5 Color"
+msgstr""
+
+#: vw-startup-pro/customizer/typography/ctypo.php:300
+#: vw-startup-pro/customizer/typography/ctypo.php:306
+msgid "Select how heading 5 should appear."
+msgstr""
+
+#: vw-startup-pro/customizer/typography/ctypo.php:305
+msgid "Heading 5"
+msgstr""
+
+#: vw-startup-pro/customizer/typography/ctypo.php:328
+msgid "Heading 6 Color"
+msgstr""
+
+#: vw-startup-pro/customizer/typography/ctypo.php:329
+#: vw-startup-pro/customizer/typography/ctypo.php:335
+msgid "Select how heading 6 should appear."
+msgstr""
+
+#: vw-startup-pro/customizer/typography/ctypo.php:334
+msgid "Heading 6"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-general-settings.php:4
+msgid "Section Ordering"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-general-settings.php:5
+msgid "Section Ordering."
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-general-settings.php:27
+msgid "General settings"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-general-settings.php:28
+msgid "This is the global setting. Will apply to the whole site. This section includes settings for the Boxed Layout and Full width layout, primary color and secondry color."
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-general-settings.php:41
+msgid "Theme Layout"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-general-settings.php:54
+msgid "Choose Boxed or Full Width Layout"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-general-settings.php:57
+msgid "Full Width"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-general-settings.php:58
+msgid "Boxed"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-general-settings.php:68
+msgid "Add boxed layout width here"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-general-settings.php:69
+msgid "The width should not be greater than 1140px"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-general-settings.php:85
+msgid "Theme Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-general-settings.php:95
+msgid "Primary Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:5
+msgid "Edit custom footer sections"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:21
+#: vw-startup-pro/customizer/customizer-part-footer.php:210
+#: vw-startup-pro/customizer/customizer-part-footer.php:697
+#: vw-startup-pro/customizer/customizer-part-home.php:561
+#: vw-startup-pro/customizer/customizer-part-home.php:931
+#: vw-startup-pro/customizer/customizer-part-home.php:1249
+#: vw-startup-pro/customizer/customizer-part-home.php:1663
+#: vw-startup-pro/customizer/customizer-part-home.php:2018
+#: vw-startup-pro/customizer/customizer-part-home.php:2394
+#: vw-startup-pro/customizer/customizer-part-home.php:2615
+#: vw-startup-pro/customizer/customizer-part-home.php:2938
+#: vw-startup-pro/customizer/customizer-part-home.php:3321
+#: vw-startup-pro/customizer/customizer-part-topbar.php:232
+msgid "Background Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:26
+#: vw-startup-pro/customizer/customizer-part-footer.php:221
+#: vw-startup-pro/customizer/customizer-part-footer.php:708
+#: vw-startup-pro/customizer/customizer-part-home.php:1258
+#: vw-startup-pro/customizer/customizer-part-home.php:1947
+#: vw-startup-pro/customizer/customizer-part-home.php:2027
+#: vw-startup-pro/customizer/customizer-part-home.php:2404
+#: vw-startup-pro/customizer/customizer-part-home.php:2624
+#: vw-startup-pro/customizer/customizer-part-home.php:2947
+#: vw-startup-pro/customizer/customizer-part-home.php:3330
+msgid "Background Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:27
+#: vw-startup-pro/customizer/customizer-part-footer.php:222
+#: vw-startup-pro/customizer/customizer-part-footer.php:709
+#: vw-startup-pro/customizer/customizer-part-home.php:98
+#: vw-startup-pro/customizer/customizer-part-home.php:571
+#: vw-startup-pro/customizer/customizer-part-home.php:942
+#: vw-startup-pro/customizer/customizer-part-home.php:1259
+#: vw-startup-pro/customizer/customizer-part-home.php:1673
+#: vw-startup-pro/customizer/customizer-part-home.php:1948
+#: vw-startup-pro/customizer/customizer-part-home.php:2028
+#: vw-startup-pro/customizer/customizer-part-home.php:2405
+#: vw-startup-pro/customizer/customizer-part-home.php:2625
+#: vw-startup-pro/customizer/customizer-part-home.php:3259
+#: vw-startup-pro/customizer/customizer-part-home.php:3331
+#: vw-startup-pro/customizer/customizer-part-topbar.php:239
+msgid "Either add background color or background image, if you add both background color will be top most priority)"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:40
+#: vw-startup-pro/customizer/customizer-part-footer.php:235
+#: vw-startup-pro/customizer/customizer-part-footer.php:722
+#: vw-startup-pro/customizer/customizer-part-home.php:1272
+#: vw-startup-pro/customizer/customizer-part-home.php:2037
+#: vw-startup-pro/customizer/customizer-part-home.php:2415
+#: vw-startup-pro/customizer/customizer-part-home.php:2638
+#: vw-startup-pro/customizer/customizer-part-home.php:2961
+#: vw-startup-pro/customizer/customizer-part-home.php:3340
+msgid "Background image"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:53
+msgid "Show/Hide Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:63
+msgid "Map Contact Form Show / Hide"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:72
+msgid "Logo / Footer Menu Show / Hide"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:84
+msgid "Footer Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:97
+msgid "Footer Form Title"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:111
+msgid "Footer Form Description"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:121
+msgid "Footer Form Shortcode"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:135
+msgid "Footer Logo Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:154
+msgid "Logo Image"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:155
+msgid "Recommended size 266px * 81px"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:171
+msgid "Footer text Alignment"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:174
+#: vw-startup-pro/customizer/customizer-part-home.php:521
+#: vw-startup-pro/customizer/customizer-part-home.php:893
+#: vw-startup-pro/customizer/customizer-part-home.php:1211
+#: vw-startup-pro/customizer/customizer-part-home.php:1628
+#: vw-startup-pro/customizer/customizer-part-home.php:1913
+#: vw-startup-pro/customizer/customizer-part-home.php:2357
+#: vw-startup-pro/customizer/customizer-part-home.php:2900
+#: vw-startup-pro/customizer/customizer-part-home.php:3286
+#: vw-startup-pro/customizer/customizer-part-slide.php:346
+#: vw-startup-pro/customizer/customizer-part-topbar.php:273
+msgid "Left"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:175
+#: vw-startup-pro/customizer/customizer-part-home.php:522
+#: vw-startup-pro/customizer/customizer-part-home.php:894
+#: vw-startup-pro/customizer/customizer-part-home.php:1212
+#: vw-startup-pro/customizer/customizer-part-home.php:1629
+#: vw-startup-pro/customizer/customizer-part-home.php:1914
+#: vw-startup-pro/customizer/customizer-part-home.php:2358
+#: vw-startup-pro/customizer/customizer-part-home.php:2901
+#: vw-startup-pro/customizer/customizer-part-home.php:3287
+#: vw-startup-pro/customizer/customizer-part-slide.php:347
+#: vw-startup-pro/customizer/customizer-part-topbar.php:274
+msgid "Centered"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:176
+#: vw-startup-pro/customizer/customizer-part-home.php:523
+#: vw-startup-pro/customizer/customizer-part-home.php:895
+#: vw-startup-pro/customizer/customizer-part-home.php:1213
+#: vw-startup-pro/customizer/customizer-part-home.php:1630
+#: vw-startup-pro/customizer/customizer-part-home.php:1915
+#: vw-startup-pro/customizer/customizer-part-home.php:2359
+#: vw-startup-pro/customizer/customizer-part-home.php:2902
+#: vw-startup-pro/customizer/customizer-part-home.php:3288
+#: vw-startup-pro/customizer/customizer-part-slide.php:348
+#: vw-startup-pro/customizer/customizer-part-topbar.php:275
+msgid "Right"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:182
+msgid "Footer"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:183
+msgid "Footer related settings defined here"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:197
+#: vw-startup-pro/customizer/customizer-part-home.php:49
+#: vw-startup-pro/customizer/customizer-part-home.php:548
+#: vw-startup-pro/customizer/customizer-part-home.php:1236
+#: vw-startup-pro/customizer/customizer-part-home.php:1937
+#: vw-startup-pro/customizer/customizer-part-home.php:2006
+#: vw-startup-pro/customizer/customizer-part-home.php:2935
+#: vw-startup-pro/customizer/customizer-part-home.php:3309
+#: vw-startup-pro/customizer/customizer-part-topbar.php:20
+msgid "Enable"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:198
+#: vw-startup-pro/customizer/customizer-part-home.php:50
+#: vw-startup-pro/customizer/customizer-part-home.php:549
+#: vw-startup-pro/customizer/customizer-part-home.php:1237
+#: vw-startup-pro/customizer/customizer-part-home.php:1938
+#: vw-startup-pro/customizer/customizer-part-home.php:2007
+#: vw-startup-pro/customizer/customizer-part-home.php:2926
+#: vw-startup-pro/customizer/customizer-part-home.php:3310
+#: vw-startup-pro/customizer/customizer-part-topbar.php:21
+msgid "Disable"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:236
+#: vw-startup-pro/customizer/customizer-part-home.php:109
+#: vw-startup-pro/customizer/customizer-part-home.php:582
+#: vw-startup-pro/customizer/customizer-part-home.php:953
+#: vw-startup-pro/customizer/customizer-part-home.php:1273
+#: vw-startup-pro/customizer/customizer-part-home.php:1684
+#: vw-startup-pro/customizer/customizer-part-home.php:2038
+#: vw-startup-pro/customizer/customizer-part-home.php:2962
+#: vw-startup-pro/customizer/customizer-part-home.php:3341
+msgid "Recommended size 1600px * 577px"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:250
+msgid "Footer Heading Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:259
+msgid "Footer Heading Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:271
+msgid "Footer Heading Font Family"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:281
+#: vw-startup-pro/customizer/customizer-part-footer.php:328
+#: vw-startup-pro/customizer/customizer-part-footer.php:605
+#: vw-startup-pro/customizer/customizer-part-slide.php:171
+msgid "Heading font size in px"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:297
+msgid "Footer Content Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:306
+msgid "Footer Text Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:318
+msgid "Footer Text Font Family"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:337
+msgid "Contact"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:338
+msgid "Add contact page settings here."
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:351
+msgid "Footer Map Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:366
+msgid "Longitude"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:376
+msgid "Latitude"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:390
+msgid "Contact Email Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:399
+msgid "Email Title"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:409
+msgid "Email"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:424
+msgid "Contact Address Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:434
+msgid "Address Title"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:444
+msgid "Address"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:458
+msgid "Contact Phone Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:467
+msgid "Phone Title"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:477
+msgid "Phone"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:491
+msgid "Working Hours Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:501
+msgid "Working Hours"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:511
+msgid "Add Working Hours"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:525
+msgid "Contact Form Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:535
+msgid "Add Form Title"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:549
+msgid "Contact Form Subtitle Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:558
+msgid "Add Form Sub Title"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:573
+msgid "Contact Page Heading Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:582
+msgid "Contact Heading Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:595
+msgid "Contact Heading Fonts"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:620
+msgid "Contact Page Content Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:629
+msgid "Contact Content Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:642
+msgid "Contact Content Fonts"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:652
+msgid "Content font size in px"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:668
+msgid "Contact Page Icon Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:677
+msgid "Icon Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:682
+msgid "Footer Text"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:683
+msgid "Add some text for footer like copyright etc."
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:736
+msgid "Copyright Text Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:751
+msgid "Copyright Text"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:757
+msgid "Shortcode Settings"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:771
+msgid "Shortcode Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:784
+msgid "Shortcodes"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-footer.php:785
+msgid "Below  shortcodes are present in the theme. Simply copy and paste into any page or post and get their listing <br><br> <ul><li><strong>[vw-startup-pro-testimonials]</strong></li><br><li><strong>[vw-startup-pro-team]</li></strong></ul>"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:5
+msgid "About Section"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:6
+msgid "About Us section settings will be updated from here"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:22
+msgid "Parallax Scroll"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:34
+msgid "Map Contact Form Show / Hide"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:46
+#: vw-startup-pro/customizer/customizer-part-home.php:545
+#: vw-startup-pro/customizer/customizer-part-home.php:1233
+#: vw-startup-pro/customizer/customizer-part-home.php:1934
+#: vw-startup-pro/customizer/customizer-part-home.php:2003
+#: vw-startup-pro/customizer/customizer-part-home.php:2922
+#: vw-startup-pro/customizer/customizer-part-home.php:3306
+msgid "Do you want this section"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:63
+msgid "Section Style"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:68
+msgid "Left Sidebar"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:72
+msgid "No Sidebar"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:87
+#: vw-startup-pro/customizer/customizer-part-home.php:966
+msgid "Section Settings"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:97
+#: vw-startup-pro/customizer/customizer-part-home.php:570
+#: vw-startup-pro/customizer/customizer-part-home.php:941
+#: vw-startup-pro/customizer/customizer-part-home.php:1672
+msgid "Section Background Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:108
+#: vw-startup-pro/customizer/customizer-part-home.php:952
+#: vw-startup-pro/customizer/customizer-part-home.php:1683
+msgid "Section Background Image"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:124
+#: vw-startup-pro/customizer/customizer-part-home.php:635
+#: vw-startup-pro/customizer/customizer-part-home.php:1286
+#: vw-startup-pro/customizer/customizer-part-home.php:2051
+#: vw-startup-pro/customizer/customizer-part-home.php:2174
+#: vw-startup-pro/customizer/customizer-part-home.php:2651
+#: vw-startup-pro/customizer/customizer-part-home.php:2975
+msgid "Section Content "
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:138
+#: vw-startup-pro/customizer/customizer-part-home.php:652
+#: vw-startup-pro/customizer/customizer-part-home.php:979
+#: vw-startup-pro/customizer/customizer-part-home.php:1299
+#: vw-startup-pro/customizer/customizer-part-home.php:1710
+#: vw-startup-pro/customizer/customizer-part-home.php:2064
+#: vw-startup-pro/customizer/customizer-part-home.php:2445
+#: vw-startup-pro/customizer/customizer-part-home.php:2664
+#: vw-startup-pro/customizer/customizer-part-home.php:2988
+msgid "Section Title"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:152
+msgid "Section Small Text"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:166
+#: vw-startup-pro/customizer/customizer-part-home.php:666
+#: vw-startup-pro/customizer/customizer-part-home.php:993
+#: vw-startup-pro/customizer/customizer-part-home.php:1313
+#: vw-startup-pro/customizer/customizer-part-home.php:2078
+#: vw-startup-pro/customizer/customizer-part-home.php:2459
+msgid "Section Description"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:185
+msgid "About Section Image "
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:196
+msgid "About Left Image"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:197
+msgid "This Image will appear on the right side"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:211
+#: vw-startup-pro/customizer/customizer-part-home.php:3554
+msgid "Note"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:212
+msgid "Below settings is for the adding the list. Set the number to the below setting (Number of list to show) publish the changes and refresh the page. You will get the fields to enter the values."
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:226
+msgid "Add Lists"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:236
+msgid "Number of list to show"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:257
+msgid "<strong>List</strong>"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:266
+msgid "List Icon"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:267
+msgid "For List icons use Font Awesome (https://fontawesome.com/icons)"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:278
+msgid "Icon Image"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:279
+msgid "Recommended size 30px * 25px"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:288
+#: vw-startup-pro/customizer/customizer-part-home.php:2136
+msgid "Title"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:304
+#: vw-startup-pro/customizer/customizer-part-home.php:2825
+msgid "Color Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:318
+msgid "About Title Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:328
+#: vw-startup-pro/customizer/customizer-part-home.php:1118
+#: vw-startup-pro/customizer/customizer-part-home.php:1487
+#: vw-startup-pro/customizer/customizer-part-home.php:1820
+#: vw-startup-pro/customizer/customizer-part-home.php:2183
+#: vw-startup-pro/customizer/customizer-part-home.php:2785
+msgid "Title Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:340
+#: vw-startup-pro/customizer/customizer-part-home.php:1131
+#: vw-startup-pro/customizer/customizer-part-home.php:1500
+#: vw-startup-pro/customizer/customizer-part-home.php:1833
+#: vw-startup-pro/customizer/customizer-part-home.php:2196
+#: vw-startup-pro/customizer/customizer-part-home.php:2786
+msgid "Title Font Family"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:350
+msgid "about Title Font Size in PX"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:366
+msgid "About Sub Title Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:375
+msgid "Sub Title Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:387
+msgid "Sub Title Font Family"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:397
+msgid "subTitle Font Size in PX"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:413
+msgid "About Paragraph Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:422
+msgid "Text Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:434
+msgid "Para Font Family"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:444
+msgid "para font size in px"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:460
+msgid "About Lists Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:469
+msgid "List Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:481
+msgid "List Font Family"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:491
+msgid "list font size in px"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:502
+msgid "List Icon Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:518
+msgid "About text Alignment"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:531
+msgid "Portfolio Section"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:533
+msgid "This section is only for portfolio title and styling. Check the link below to  %1$sAdd Portfolio%2$s."
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:533
+msgid "This section is only for portfolio title and styling. Check the link below to  %1$sAdd Portfolio%2$s."
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:596
+#: vw-startup-pro/customizer/customizer-part-home.php:1070
+#: vw-startup-pro/customizer/customizer-part-home.php:1439
+#: vw-startup-pro/customizer/customizer-part-home.php:3114
+msgid "Alphacolor Options "
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:609
+#: vw-startup-pro/customizer/customizer-part-home.php:1083
+#: vw-startup-pro/customizer/customizer-part-home.php:1452
+msgid "Box Hover RGB Color Picker"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:610
+#: vw-startup-pro/customizer/customizer-part-home.php:1084
+msgid "Below Setting is for changing the RGBA color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:680
+#: vw-startup-pro/customizer/customizer-part-home.php:1007
+#: vw-startup-pro/customizer/customizer-part-home.php:1385
+#: vw-startup-pro/customizer/customizer-part-home.php:2736
+#: vw-startup-pro/customizer/customizer-part-home.php:3060
+#: vw-startup-pro/customizer/customizer-part-home.php:3412
+msgid "Number of Boxes show in a row"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:693
+msgid "Number of Portfolio to Show"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:706
+#: vw-startup-pro/customizer/customizer-part-home.php:1024
+#: vw-startup-pro/customizer/customizer-part-home.php:1402
+#: vw-startup-pro/customizer/customizer-part-home.php:2753
+#: vw-startup-pro/customizer/customizer-part-home.php:3077
+msgid "Order By"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:709
+#: vw-startup-pro/customizer/customizer-part-home.php:1027
+#: vw-startup-pro/customizer/customizer-part-home.php:1405
+#: vw-startup-pro/customizer/customizer-part-home.php:2756
+#: vw-startup-pro/customizer/customizer-part-home.php:3080
+msgid "Date"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:710
+#: vw-startup-pro/customizer/customizer-part-home.php:1028
+#: vw-startup-pro/customizer/customizer-part-home.php:1406
+#: vw-startup-pro/customizer/customizer-part-home.php:2757
+#: vw-startup-pro/customizer/customizer-part-home.php:3081
+msgid "ID"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:711
+#: vw-startup-pro/customizer/customizer-part-home.php:1029
+#: vw-startup-pro/customizer/customizer-part-home.php:1407
+#: vw-startup-pro/customizer/customizer-part-home.php:2758
+#: vw-startup-pro/customizer/customizer-part-home.php:3082
+msgid "Menu Order"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:712
+#: vw-startup-pro/customizer/customizer-part-home.php:1030
+#: vw-startup-pro/customizer/customizer-part-home.php:1408
+#: vw-startup-pro/customizer/customizer-part-home.php:2759
+#: vw-startup-pro/customizer/customizer-part-home.php:3083
+msgid "Popularity"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:713
+#: vw-startup-pro/customizer/customizer-part-home.php:1031
+#: vw-startup-pro/customizer/customizer-part-home.php:1409
+#: vw-startup-pro/customizer/customizer-part-home.php:2760
+#: vw-startup-pro/customizer/customizer-part-home.php:3084
+msgid "Rand"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:714
+#: vw-startup-pro/customizer/customizer-part-home.php:1032
+#: vw-startup-pro/customizer/customizer-part-home.php:1410
+#: vw-startup-pro/customizer/customizer-part-home.php:2761
+#: vw-startup-pro/customizer/customizer-part-home.php:3085
+msgid "Title"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:725
+#: vw-startup-pro/customizer/customizer-part-home.php:1043
+#: vw-startup-pro/customizer/customizer-part-home.php:1421
+#: vw-startup-pro/customizer/customizer-part-home.php:2772
+#: vw-startup-pro/customizer/customizer-part-home.php:3096
+msgid "Order"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:728
+#: vw-startup-pro/customizer/customizer-part-home.php:1046
+#: vw-startup-pro/customizer/customizer-part-home.php:1424
+#: vw-startup-pro/customizer/customizer-part-home.php:2775
+#: vw-startup-pro/customizer/customizer-part-home.php:3099
+msgid "Ascending"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:729
+#: vw-startup-pro/customizer/customizer-part-home.php:1047
+#: vw-startup-pro/customizer/customizer-part-home.php:1425
+#: vw-startup-pro/customizer/customizer-part-home.php:2776
+#: vw-startup-pro/customizer/customizer-part-home.php:3100
+msgid "Descending"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:742
+msgid "Portfolio Title Color Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:751
+#: vw-startup-pro/customizer/customizer-part-home.php:3161
+msgid "Section Title Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:764
+#: vw-startup-pro/customizer/customizer-part-home.php:3162
+msgid "Section Title Font Family"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:774
+#: vw-startup-pro/customizer/customizer-part-home.php:1141
+#: vw-startup-pro/customizer/customizer-part-home.php:1510
+#: vw-startup-pro/customizer/customizer-part-home.php:1843
+#: vw-startup-pro/customizer/customizer-part-home.php:2206
+#: vw-startup-pro/customizer/customizer-part-home.php:2808
+#: vw-startup-pro/customizer/customizer-part-home.php:3184
+msgid "Title Font Size in PX"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:775
+#: vw-startup-pro/customizer/customizer-part-home.php:824
+#: vw-startup-pro/customizer/customizer-part-home.php:873
+#: vw-startup-pro/customizer/customizer-part-home.php:1142
+#: vw-startup-pro/customizer/customizer-part-home.php:1511
+#: vw-startup-pro/customizer/customizer-part-home.php:1560
+#: vw-startup-pro/customizer/customizer-part-home.php:1844
+#: vw-startup-pro/customizer/customizer-part-home.php:1893
+#: vw-startup-pro/customizer/customizer-part-home.php:2207
+#: vw-startup-pro/customizer/customizer-part-home.php:2256
+#: vw-startup-pro/customizer/customizer-part-home.php:2509
+#: vw-startup-pro/customizer/customizer-part-home.php:2809
+#: vw-startup-pro/customizer/customizer-part-home.php:3185
+#: vw-startup-pro/customizer/customizer-part-home.php:3234
+msgid "For ex. 14px"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:791
+msgid "Portfolio Text Color Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:800
+msgid "Section Text Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:813
+msgid "Section Text Font Family"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:823
+#: vw-startup-pro/customizer/customizer-part-home.php:1190
+#: vw-startup-pro/customizer/customizer-part-home.php:1559
+#: vw-startup-pro/customizer/customizer-part-home.php:1892
+#: vw-startup-pro/customizer/customizer-part-home.php:2255
+#: vw-startup-pro/customizer/customizer-part-home.php:2508
+#: vw-startup-pro/customizer/customizer-part-home.php:3233
+msgid "Text Font Size in PX"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:840
+msgid "Portfolio Text Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:849
+msgid "Portfolio Text Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:862
+msgid "Portfolio Text Font Family"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:872
+msgid "Portfolio Text Font Size in PX"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:890
+msgid "About text Alignment"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:901
+msgid "Services Section"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:903
+msgid "This section is only for services title and styling. Check the link below to  %1$sAdd Services%2$s."
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1056
+msgid "Number of Services to show"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1109
+#: vw-startup-pro/customizer/customizer-part-home.php:1158
+#: vw-startup-pro/customizer/customizer-part-home.php:1478
+#: vw-startup-pro/customizer/customizer-part-home.php:1811
+msgid "Title Color Options "
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1167
+msgid "Sub Text Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1180
+#: vw-startup-pro/customizer/customizer-part-home.php:1549
+#: vw-startup-pro/customizer/customizer-part-home.php:1882
+#: vw-startup-pro/customizer/customizer-part-home.php:2245
+#: vw-startup-pro/customizer/customizer-part-home.php:2498
+msgid "Text Font Family"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1208
+msgid "Services Text Alignment"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1220
+msgid "Team Section"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1222
+msgid "This section is only for team title and styling. Check the link below to  %1$sAdd Team%2$s."
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1222
+msgid "This section is only for team title and styling. Check the link below to  %1$sAdd Team%2$s."
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1327
+msgid "Choose a Style for the Team"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1330
+msgid "Team With Carousel"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1331
+msgid "Team Without Carousel"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1346
+#: vw-startup-pro/customizer/customizer-part-home.php:3021
+#: vw-startup-pro/customizer/customizer-part-home.php:3373
+msgid "Settings for Style 1"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1356
+msgid "Number of team in first slide"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1372
+#: vw-startup-pro/customizer/customizer-part-home.php:3047
+#: vw-startup-pro/customizer/customizer-part-home.php:3399
+msgid "Settings for Style 2"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1527
+#: vw-startup-pro/customizer/customizer-part-home.php:1576
+#: vw-startup-pro/customizer/customizer-part-home.php:1860
+#: vw-startup-pro/customizer/customizer-part-home.php:2223
+#: vw-startup-pro/customizer/customizer-part-home.php:2474
+msgid "Text Color Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1536
+#: vw-startup-pro/customizer/customizer-part-home.php:1869
+#: vw-startup-pro/customizer/customizer-part-home.php:2232
+msgid "Sub Text Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1585
+msgid "Team Text Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1598
+msgid "Team Text Font Family"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1608
+#: vw-startup-pro/customizer/customizer-part-topbar.php:386
+#: vw-startup-pro/customizer/customizer-part-topbar.php:458
+msgid "font size in px"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1625
+msgid "Team text Alignment"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1636
+msgid "Our Skills Section"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1637
+msgid "Add We are Expert content here"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1697
+#: vw-startup-pro/customizer/customizer-part-home.php:3200
+msgid "Section Title Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1724
+msgid "Left Side Content"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1756
+msgid "Number of Tabs to show"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1776
+msgid "Progress Bar Settings"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1786
+msgid "Bar Title"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1796
+msgid "Add bar percentage here"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1910
+msgid "Skills text Alignment"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1922
+msgid "Video Section"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1923
+msgid "Video Section Settings are here"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1958
+msgid "Video Image"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1974
+msgid "Add Video Text"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1984
+msgid "Enter Embed Video Link"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1985
+msgid "Copy the iframe code of the You tube video, then you will need to copy the embed url form the src."
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1992
+msgid "How we work"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:1993
+msgid "Add How we work details here"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:2095
+#: vw-startup-pro/customizer/customizer-part-home.php:3433
+msgid "Number of Boxes to Show"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:2115
+msgid "Box Image"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:2126
+msgid "Title Icon Image"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:2147
+msgid "Description"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:2158
+msgid "Link"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:2272
+msgid "Icon Color Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:2282
+msgid "Icon Title Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:2295
+msgid "Icon Title Font Family"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:2305
+msgid "icon font size in px"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:2321
+#: vw-startup-pro/customizer/customizer-part-home.php:3249
+msgid "Box Background Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:2354
+msgid "Work text Alignment"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:2366
+msgid "Our Records"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:2367
+msgid "Records related settings will be changed from here."
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:2416
+msgid "Recommended size 270px * 460px"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:2432
+msgid "Section Content"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:2529
+msgid "Number of records to show"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:2550
+msgid "Counter Box Image"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:2560
+msgid "Counter Image"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:2569
+msgid "Number"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:2578
+msgid "Counter Title"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:2585
+msgid "Testimonial"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:2587
+msgid "This section is only for testimonial title and styling. Check the link below to  %1$sAdd Testimonial%2$s."
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:2678
+msgid "Choose a Style for the testimonial"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:2681
+msgid "testimonial With Carousel"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:2682
+msgid "testimonial Without Carousel"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:2697
+msgid "Settings for Style 1"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:2707
+msgid "Number of testimonial in first slide"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:2723
+msgid "Settings for Style 2"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:2834
+msgid "Testimonial Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:2847
+msgid "Testimonial Font Family"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:2857
+msgid "name font size in px"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:2873
+msgid "Box Background Settings"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:2897
+msgid "Testimonial text Alignment"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:2910
+msgid "Latest Post"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:3002
+msgid "Choose a Style for the latestpost"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:3005
+msgid "Latest Post With Carousel"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:3006
+msgid "Latest Post Without Carousel"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:3031
+msgid "Number of latest post in first slide"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:3127
+msgid "Image Hover RGB Color Picker"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:3128
+msgid "Below Setting is for changing the RGBA color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:3152
+msgid "Section Title Color Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:3210
+msgid "Latest Post Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:3223
+msgid "Latest Post Font Family"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:3258
+msgid "Box Background Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:3283
+msgid "Latest Post text Alignment"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:3295
+msgid "Our Partners"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:3296
+msgid "Partner section related settings will be changed from here"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:3354
+msgid "Choose a Style for the partners"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:3357
+msgid "Partners With Carousel"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:3358
+msgid "Partners Without Carousel"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:3383
+msgid "Number of partners in first slide"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:3451
+msgid "Partners Image"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:3465
+msgid "Partner Image"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:3466
+msgid "Recommended size 180px * 40px"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:3474
+#: vw-startup-pro/customizer/customizer-part-home.php:3509
+msgid "Blog Page"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:3475
+msgid "Blog Post settings"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:3489
+msgid "Blog Page Category Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:3510
+msgid "From this settings you can show the post from the specific category on blog pages."
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:3529
+msgid "Choose Style"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:3532
+msgid "Box with overlay"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:3533
+msgid "Box without overlay"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:3540
+msgid "Single Post Settings"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:3555
+msgid "Below Settings is to hide the post meta such as comments, date, auther. This settings will work on all the blog page."
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:3568
+msgid "Author Name"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:3580
+msgid "Comment"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:3592
+msgid "Post Date"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:3604
+msgid "Social Sharing"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-home.php:3614
+msgid "Read More Label"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-slide.php:3
+msgid "Slider Settings"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-slide.php:4
+msgid "Slider Related settings are defind here."
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-slide.php:31
+msgid "Slide Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-slide.php:48
+msgid "Number of slides to show"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-slide.php:67
+msgid "Slide"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-slide.php:79
+msgid "Slider Image "
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-slide.php:80
+msgid "Recommended Size 1600px x 562px "
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-slide.php:90
+msgid "Slide Heading Title"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-slide.php:100
+msgid "Slide Text"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-slide.php:110
+msgid "Slider Button Text"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-slide.php:120
+msgid "Button URL"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-slide.php:137
+msgid "Color Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-slide.php:148
+msgid "Slider Heading Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-slide.php:161
+msgid "Slider Heading Fonts"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-slide.php:184
+msgid "Slider Text Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-slide.php:197
+msgid "Slider Text Fonts"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-slide.php:207
+msgid "Text Font Size in PX"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-slide.php:225
+msgid "Button Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-slide.php:255
+msgid "Button Text Fonts"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-slide.php:265
+msgid "Button Text Font Size in PX"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-slide.php:281
+msgid "Other Settings"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-slide.php:294
+msgid "Show / Hide Next & Previous Arrows"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-slide.php:306
+msgid "Show / Hide dots"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-slide.php:316
+msgid "Slide Delay"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-slide.php:318
+msgid "interval is in milliseconds. 1000 = 1 second -> so 1000 * 10 = 10 seconds"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-slide.php:330
+msgid "Remove Fade Slider"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-slide.php:343
+msgid "Slider text Alignment"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-social-icons.php:4
+msgid "Social Icons"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-social-icons.php:5
+msgid "Add social Icons details Here"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-social-icons.php:24
+msgid "Social Icons Options "
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-social-icons.php:35
+msgid "Add twitter link"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-social-icons.php:46
+msgid "Add pinterest link"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-social-icons.php:57
+msgid "Add facebook link"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-social-icons.php:68
+msgid "Add Youtube link"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-social-icons.php:79
+msgid "Add Instagram link"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-social-icons.php:90
+msgid "Add Linkedin link"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-social-icons.php:101
+msgid "Add Tumblr link"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-social-icons.php:112
+msgid "Add GooglePlus link"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-social-icons.php:123
+msgid "Add Flickr link"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-social-icons.php:134
+msgid "Add VK link"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:3
+msgid "Top Bar"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:4
+msgid "Top Bar Settings"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:33
+msgid "Show / Hide search box"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:48
+msgid "Top Headline Text"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:64
+msgid "Add Address Here"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:81
+msgid "Add Cell Number here"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:97
+msgid "Add Email address Here"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:107
+msgid "Donate Now"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:111
+msgid "Slider Button Text"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:121
+msgid "Button URL"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:136
+msgid "Color Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:146
+msgid "Top Bar Contact Details Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:159
+msgid "Top Bar contact details Font family"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:169
+#: vw-startup-pro/customizer/customizer-part-topbar.php:202
+msgid "font size in px"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:180
+msgid "Top Bar Headlines Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:192
+msgid "Top Bar Headlines Font family"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:213
+msgid "Top Bar contact icon Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:238
+msgid "Top Bar Background Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:253
+msgid "Top Bar Background image"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:254
+msgid "Recommended size 1520px * 50px"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:270
+msgid "Top Bar text Alignment"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:283
+msgid "Header"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:284
+msgid "Header Settings"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:297
+msgid "Choose a header style"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:300
+msgid "Header Style1"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:301
+msgid "Header Style 2"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:302
+msgid "Header Style 3"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:316
+msgid "Button Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:327
+msgid "Add Button Text"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:339
+msgid "Add Button URL"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:354
+msgid "Header Main Title Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:364
+msgid "Header Main title Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:376
+msgid "Header Main title Font family"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:402
+msgid "Header Background Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:411
+msgid "Header Background Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:426
+msgid "Header Menu Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:435
+msgid "Menu Item Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:448
+msgid "Menu Item Fonts"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:475
+msgid "Menu Item Color Options"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:484
+msgid "Menu Item Hover Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:495
+msgid "Menu DropDown Background Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:505
+msgid "Menu DropDown Item Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:515
+msgid "Menu DropDown Item Hover Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:526
+msgid "Responsive Menu Background Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer-part-topbar.php:535
+msgid "Responsive Menu item Color"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer.php:9
+msgid "Theme Settings"
+msgstr""
+
+#: vw-startup-pro/customizer/customizer.php:10
+msgid "Description of what this panel does."
+msgstr""
+
+#: vw-startup-pro/widget/socail-widget.php:14
+msgid "Social Icon"
+msgstr""
+
+#: vw-startup-pro/widget/socail-widget.php:16
+msgid "Widget for Social icons section"
+msgstr""
+
+#: vw-startup-pro/widget/socail-widget.php:123
+msgid "Facebook:"
+msgstr""
+
+#: vw-startup-pro/widget/socail-widget.php:127
+msgid "Twitter:"
+msgstr""
+
+#: vw-startup-pro/widget/socail-widget.php:131
+msgid "Google+:"
+msgstr""
+
+#: vw-startup-pro/widget/socail-widget.php:135
+msgid "Linkedin:"
+msgstr""
+
+#: vw-startup-pro/widget/socail-widget.php:139
+msgid "Instagram:"
+msgstr""
+
+#: vw-startup-pro/widget/socail-widget.php:143
+msgid "Pinterest:"
+msgstr""
+
+#: vw-startup-pro/widget/socail-widget.php:147
+msgid "Tumblr:"
+msgstr""
+
+#: vw-startup-pro/widget/socail-widget.php:151
+msgid "Youtube:"
+msgstr""
+
+#: vw-startup-pro/widget/socail-widget.php:151
+msgid "Youtube:"
+msgstr""
